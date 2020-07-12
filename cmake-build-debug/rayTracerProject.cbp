@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="rayTracerProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rayTracerProject">
+				<Option output="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/rayTracerProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rayTracerProject"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rayTracerProject/fast">
+				<Option output="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/rayTracerProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rayTracerProject/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/.idea/codeStyles/Project.xml">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/.idea/misc.xml">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/.idea/modules.xml">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/.idea/rayTracerProject.iml">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/.idea/vcs.xml">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/.idea/workspace.xml">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/CMakeLists.txt">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/README.md">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/SDL2.dll">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/build.py">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cap.ppm">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/CMakeCache.txt">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/Makefile">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/cmake_install.cmake">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cmake-build-debug/rayTracerProject.cbp">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/cornell.ppm">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/OBJ.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/aabb.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/boxCanHit.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/bvhNode.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/camera.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/canHitGeneric.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/canHitGenericList.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/checkerBoardTexture.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/constantMedium.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/constantTexture.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/dielectricMaterial.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/diffuseLightMaterial.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/diffuseMaterial_Lambertian.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/flipNormals.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/imageTexture.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/isotrophic.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/material.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/metalMaterial.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/ray.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/rectangleCanHit.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/rotateY.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/sphereCanHit.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/texture.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/translate.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/triangleCanHit.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/vec3.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/xzRectangleCanHit.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/include/yzRectangleCanHit.h">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/lab.exe">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/out.ppm">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/outVec.ppm">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/outVecHQ.ppm">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/src/main.cpp">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/src/obj.cpp">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/w.ppm">
+			<Option target="rayTracerProject"/>
+		</Unit>
+		<Unit filename="C:/Users/ap/Desktop/graphics/rayTracePro/rayTracerProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

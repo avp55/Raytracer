@@ -1,0 +1,72 @@
+cmake_minimum_required(VERSION 3.10)
+project(finalproject_jt_atanas)
+
+set(CMAKE_CXX_STANDARD 11)
+
+include_directories(include)
+
+add_executable(finalproject_jt_atanas
+        .idea/codeStyles/Project.xml
+        .idea/.name
+        .idea/encodings.xml
+        .idea/misc.xml
+        .idea/modules.xml
+        .idea/rayTracerProject.iml
+        .idea/vcs.xml
+        .idea/workspace.xml
+        cmake-build-debug/cmake_install.cmake
+        cmake-build-debug/CMakeCache.txt
+        cmake-build-debug/finalproject_jt_atanas.cbp
+        cmake-build-debug/Makefile
+        cmake-build-debug/rayTracerProject.cbp
+        include/aabb.h
+        include/boxCanHit.h
+        include/bvhNode.h
+        include/camera.h
+        include/canHitGeneric.h
+        include/canHitGenericList.h
+        include/checkerBoardTexture.h
+        include/constantMedium.h
+        include/constantTexture.h
+        include/dielectricMaterial.h
+        include/diffuseLightMaterial.h
+        include/diffuseMaterial_Lambertian.h
+        include/flipNormals.h
+        include/imageTexture.h
+        include/isotrophic.h
+        include/material.h
+        include/metalMaterial.h
+        include/OBJ.h
+        include/ppmLoader.h
+        include/ray.h
+        include/rectangleCanHit.h
+        include/rotateY.h
+        include/sphereCanHit.h
+        include/texture.h
+        include/translate.h
+        include/triangleCanHit.h
+        include/vec3.h
+        include/xzRectangleCanHit.h
+        include/yzRectangleCanHit.h
+        src/main.cpp
+        src/obj.cpp
+        build.py
+        bunny_centered.obj
+        c.obj
+        cap.ppm
+        CMakeLists.txt
+        cornell.ppm
+        lab
+        lab.exe
+        out.ppm
+        outVec.ppm
+        outVec1.ppm
+        outVec2.ppm
+        outVecHQ.ppm
+        randomspheres.ppm
+        randomspheres1.ppm
+        README.md
+        SDL2.dll
+        test.ppm
+        test1000.ppm
+        w.ppm)
